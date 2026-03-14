@@ -60,7 +60,7 @@ plt.show()
 
 
 # Output :
-![image alt](
+![image alt](https://github.com/shankar-py-coder/Correlation_Regression/blob/main/Screenshot%202026-03-14%20230745.png?raw=true)
 ![image alt](https://github.com/shankar-py-coder/Correlation_Regression/blob/main/Screenshot%202026-03-14%20185056.png?raw=true)
 
 # Result :
